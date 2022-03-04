@@ -1,6 +1,6 @@
 # Github-assignment
 
-This repository contains an analysis of rainfall in Melbourne and Oxford.
+This repository contains an analysis of rainfall in Melbourne and Oxford over months.
 
 To run this analysis use the following command:
 
